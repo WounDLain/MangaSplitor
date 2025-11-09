@@ -1,6 +1,9 @@
 # MangaSplitor/漫画大跨页分割器
 This is a tool to split doubule page spread(is this the proper name?) in manga. 
+
 这是一个用以分割漫画中的大跨页的小工具。
+
+基于Qt，一种支持C++/Python的软件开发框架，代码小登解决图形化界面与图像的方案。
 
 #### 引言/Intro
 
