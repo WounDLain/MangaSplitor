@@ -38,6 +38,8 @@ And then you can perfectly enjoy it in any manga reader!
 
 #### 使用方法/Instruction
 
+[这里是一个视频演示](https://www.bilibili.com/video/BV1tHkDBbEcb/)
+
 <img width="360" height="237" alt="image" src="https://github.com/user-attachments/assets/3b7dbde7-58c6-4df8-8590-88328494fbe4" />
 
 只需要把需要分割的漫画所在的文件夹/文件夹中的文件直接输入/拖入其中，程序便可以对目录下的全部图片文件进行分割。
